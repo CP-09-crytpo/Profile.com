@@ -30,15 +30,11 @@ a{
 }
 .row-content{
     display: grid;
-    grid-template-columns: repeat(2,2fr);
+    grid-template-columns: repeat(1,1fr);
     row-gap: 0px;
 }
 .col-content{
-    margin: 20px;
-    padding-right: 30px;
+    gap: 10px;
+}
 
-}
-h2{
-    padding-top: 100px;
-}
 
