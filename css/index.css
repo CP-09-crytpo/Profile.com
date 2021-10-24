@@ -19,5 +19,5 @@ a{
     color: white;
     text-transform: uppercase;
     -webkit-text-size-adjust: none;
-    text-size-adjust: none;
+    text-size-adjust: none; 
 }
