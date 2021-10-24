@@ -21,3 +21,24 @@ a{
     -webkit-text-size-adjust: none;
     text-size-adjust: none; 
 }
+.content{
+    justify-content: center;
+    display: flex;
+    font-family: sans-serif;
+    margin: 10px;
+    
+}
+.row-content{
+    display: grid;
+    grid-template-columns: repeat(2,2fr);
+    row-gap: 0px;
+}
+.col-content{
+    margin: 20px;
+    padding-right: 30px;
+
+}
+h2{
+    padding-top: 100px;
+}
+
