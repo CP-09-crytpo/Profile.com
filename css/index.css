@@ -45,6 +45,7 @@ a{
     grid-template-columns: repeat(2,2fr);
     margin: 100px;
     color: white;
+    
 }
 img{
     width: 300px;
